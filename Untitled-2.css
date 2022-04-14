@@ -238,12 +238,9 @@
                 margin-left: auto;
                 padding: 25px;
                 color: aliceblue;
-                border: 3px solid;
+                border: 3px black solid;
                 margin-right: 10%;
                 padding: 25px;
             }
 
-.container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
-    width: 100%;
- 
-}
+
