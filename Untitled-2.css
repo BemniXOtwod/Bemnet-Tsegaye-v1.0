@@ -70,6 +70,7 @@
                 margin-right: auto;
                 display: block;
                 border-radius: 50%;
+                border: 15px solid #ffffff
             }
             
             #logo {
@@ -115,9 +116,9 @@
             }
             
             #btn1 {
-                height: 40px;
-                padding-left: 23%;
-                padding-right: 32%;
+                height: 80px;
+                padding-left: 15%;
+                padding-right: 15%;
                 transition-duration: 0.4s;
                 border: 2px solid #000000;
                 background-color: #383838;
